@@ -1,0 +1,2 @@
+# About Me
+This is my first time to publish content in this platform and hopefully it's a wonderful place where I can put my thoughts, feelings and any technical things in this blog. I'm a software engineer working in a fintech company in Shanghai for more than 15 years, but now I'm going to leave to pursue a work-life-balance lifestyle in Canada. But before I get a full-time job in Canada, I will study for one year to upgrade my knowledge and I think I will do some part-time job to warm-up to better adapt to the local work environment.
