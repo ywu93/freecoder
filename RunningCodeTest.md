@@ -1,4 +1,7 @@
 # Running Code Snippets
+
+It's a fancy function to enable you to run some simple code sinppets online. You can see the results by clicking `run` button.
+
 ```cpp
 #include <stdio.h>
 
