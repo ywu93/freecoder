@@ -1,3 +1,5 @@
+# Running Code Snippets
+```cpp
 #include <stdio.h>
 
 const int MAX = 10;
@@ -21,3 +23,4 @@ int main() {
     }
     return 0;
 }
+```
